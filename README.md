@@ -49,6 +49,8 @@ Recently graduate with a Bachelor's degree from King Mongkut's University of Tec
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" style="margin: 5px;" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" style="margin: 5px;" /></a>
   <a href="https://chartbrew.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/57401255?s=48&v=4" width="36" height="36" alt="Chartbrew" style="margin: 5px;" /></a>
+  <a href="https://www.mendix.com/academy/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9a30aa83-91a8-4522-abe3-0f7b694fb006" width="36" height="36" alt="Chartbrew" style="margin: 5px;" /></a>
+  
 </p>
 
 
@@ -77,20 +79,54 @@ Recently graduate with a Bachelor's degree from King Mongkut's University of Tec
 <br />
 <br />
 
+##
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Tonyroute/project-dumbbell-ai-workout" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyroute&repo=project-dumbbell-ai-workout&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+##
 
 ### Achievements
 
-- 🔹 **2021** – Started learning programming.
-- 🔹 **2022** – XXXXXXXXXXX.
-- 🔹 **2023** – XXXXXXXXXXX.
-- 🔹 **2024** – Interned as a full-stack developer.
-- 🔹 **2025** – Focused on AI & data visualization.
+<body>
+    <ul>
+        <li>🔹 < 2022 >
+            <ul>
+                <li>🧑‍💼 Interned as an IT support and network support technician.</li>
+                <li>📖 Focused on datamining and data visualization.</li>
+            </ul>
+        </li>
+        <li>🔹 < 2023 >
+            <ul>
+                <li>🎓 Blencherdegree project | Develop dumbbell workout assistant using OpenCV and Mediapipe. (Pose Recognition)</li>
+                <li>📜 Mendix Rapid Developer Certification.</li>
+                <li>🧑‍💼 Developed data management and data visualization web-application for non-profit organizations. (Demo)</li>
+                <li>📖 Focused on artificial intelligence and machine learning.</li>
+            </ul>
+        </li>
+        <li>🔹 < 2024 >
+            <ul>
+                <li>🧑‍💼 Teaching Intern. (High School)</li>
+                <li>🥈 Advisor of Lo-Ra tourist tracking device. (Thailand New Gen Inventors Award - Research Council of Thailand)</li>
+            </ul>
+        </li>
+        <li>🔹 < 2025 >
+            <ul>
+                <li>📖 Focused on networking learning.</li>
+            </ul>
+        </li>
+    </ul>
+</body>
 
+##
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/tonyroute"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/><a href="https://ezdn.app/tatonynaja"><img src="https://cdn.aona.in.th/1hgf6ev0e/399615449_321479607492140_8060858321495523958_n.jpg" width="50"/>
+<a href="https://www.buymeacoffee.com/tonyroute"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" style="margin: 10px;"/><a href="https://ezdn.app/tatonynaja"><img src="https://cdn.aona.in.th/1hgf6ev0e/399615449_321479607492140_8060858321495523958_n.jpg" width="50" style="margin: 10px;"/>
+
+
+  <h1>Console</h1>
+    
+    tonyroute@krutouring:~$ Dreaming [=====-------------------] 22.55 Year/∞
+
