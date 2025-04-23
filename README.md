@@ -65,9 +65,9 @@ Recently graduate with a Bachelor's degree from King Mongkut's University of Tec
 ##
 
 ### Badges & Contribution
-<img src="https://github-readme-stats.vercel.app/api?username=Tonyroute&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" /><img src="http://github-readme-streak-stats.herokuapp.com?user=Tonyrouteu&theme=tokyonight&hide_border=true" /><a href="http://www.github.com/Tonyroute"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonyroute&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&theme=tokyonight&hide_border=true" /></a>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonyroute&theme=react-dark&hide_border=true">
-<a href="https://github.com/Tonyroute"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyroute&count_private=true&layout=compact&hide=html,css&theme=tokyonight&langs_count=12&hide_border=true" /></a><a href="https://wakatime.com/@Tonyroute"><img align="right" width="400" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Tonyroute&hide_border=true&langs_count=12&theme=tokyonight" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Tonyroute&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="500" height="300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonyroute&theme=react-dark&hide_border=true" width="700" height="500"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tonyroute" width="500" height="300"/>
 
   
 <br />
