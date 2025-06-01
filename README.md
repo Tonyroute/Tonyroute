@@ -9,7 +9,7 @@ Recently graduate with a Bachelor's degree from King Mongkut's University of Tec
 <hr>
 
 * 🌍  I'm based in Suratthani
-* ✉️  You can contact me at [tonytanapoom@gmail.com](mailto:tonytanapoom@gmail.com) , [tanapoom@krutouring.in.th](mailto:tanapoom@krutouring.in.th)
+* ✉️  You can contact me at [tanapoom.tech@gmail.com](mailto:tanapoom.tech@gmail.com) , [tanapoom@krutouring.in.th](mailto:tanapoom@krutouring.in.th)
 * 🧠  I'm learning Rust, Network, IoT, Production
 * 🤝  I'm open to collaborating on Smart Farm, IoT
 * 💭  My hobby is usually -> 3D Printer, Computer-Aided Design (CAD), Electronic and electrical
